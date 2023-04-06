@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.layout-sc {
+	height: 100vh;
+    padding: 0 0 20px 0;
+    overflow: auto;
+/*     background-color: blue !important; */
+}
+
+.s-btn {
+	height: 39px !important;
+}
